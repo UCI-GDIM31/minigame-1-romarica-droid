@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/d-DorLAf)
 # minigame-1
 ## Devlog
-Prompt
+Prompt: 
 One way to describe the elements of a unity project and its relationships is to think of the project as an animated attraction at a theme park. Scenes represent the different attractions at a theme park. 
 Each attraction has its own visuals and designs that create memorable experiences, similar to moving objects in a level to make a unique level. Game objects are represented as the individual pieces 
 within the attraction. Each individual character and prop has its own design and function, serving different purposes to emphasize the attraction itself, such as having different weapons or obstacles 
